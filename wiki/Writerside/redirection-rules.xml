@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4ef07c9c">
+        <description>Created after removal of "Deltager bruger" from GDC Wiki</description>
+        <accepts>Deltager-bruger.html</accepts>
+    </rule>
+    <rule id="721c49f2">
+        <description>Created after removal of "Git setup" from GDC Wiki</description>
+        <accepts>Git-setup.html</accepts>
+    </rule>
+    <rule id="7ec3f12d">
+        <description>Created after removal of "Install Script" from GDC Wiki</description>
+        <accepts>Install-Script.html</accepts>
+    </rule>
+</rules>
