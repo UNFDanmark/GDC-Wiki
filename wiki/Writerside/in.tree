@@ -8,9 +8,10 @@
 
     <toc-element topic="roles.md">
         <toc-element topic="Empty-MD-Topic.md">
+            <toc-element topic="Github-repositories.md"/>
+            <toc-element topic="Setup-af-ny-windows-installation.md"/>
+            <toc-element topic="Windows-ISO.md"/>
             <toc-element topic="Unity-project.md"/>
-            <toc-element topic="Git-setup.md"/>
-            <toc-element topic="Install-Script.md"/>
             <toc-element topic="Bloker-webside-lokalt.md"/>
         </toc-element>
     </toc-element>
