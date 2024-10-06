@@ -4,15 +4,35 @@
 
 <instance-profile id="in"
                  name="GDC Wiki"
-                 start-page="roles.md">
+                 start-page="GDC-Wiki.md">
 
+    <toc-element topic="GDC-Wiki.md"/>
     <toc-element topic="roles.md">
-        <toc-element topic="Empty-MD-Topic.md">
+        <toc-element topic="Transportansvarlig.md"/>
+        <toc-element topic="Trykansvarlig.md"/>
+        <toc-element topic="Praktisk-Ansvarlig.md"/>
+        <toc-element topic="Logistik-Ansvarlig.md"/>
+        <toc-element topic="Deltagerhyrde.md"/>
+        <toc-element topic="Tillidsperson.md"/>
+        <toc-element topic="Deltager-Kontakt.md"/>
+        <toc-element topic="Social-Ansvarlig.md"/>
+        <toc-element topic="Koordinator.md">
+            <toc-element topic="Før-Campen.md"/>
+            <toc-element topic="Under-Campen.md"/>
+        </toc-element>
+        <toc-element topic="Software-Ansvarlig.md"/>
+        <toc-element topic="teknisk-ansvarlig.md">
             <toc-element topic="Github-repositories.md"/>
             <toc-element topic="Setup-af-ny-windows-installation.md"/>
             <toc-element topic="Windows-ISO.md"/>
             <toc-element topic="Unity-project.md"/>
             <toc-element topic="Bloker-webside-lokalt.md"/>
         </toc-element>
+    </toc-element>
+    <toc-element topic="Faglig.md">
+        <toc-element topic="2D.md"/>
+        <toc-element topic="Programmering.md"/>
+        <toc-element topic="Lyd.md"/>
+        <toc-element topic="3D.md"/>
     </toc-element>
 </instance-profile>
