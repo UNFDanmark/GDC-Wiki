@@ -1,0 +1,3 @@
+# Krita
+
+Start typing here...
