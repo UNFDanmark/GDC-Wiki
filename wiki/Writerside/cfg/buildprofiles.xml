@@ -2,12 +2,6 @@
 <!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
-    <variables>
-        <algolia-id>YILOELUG8N</algolia-id>
-        <algolia-index>gdcwiki</algolia-index>
-        <algolia-api-key>10aa39de817529957dc2fd3eb9398965</algolia-api-key>
-    </variables>
     <build-profile instance="in">
         <variables>
             <noindex-content>true</noindex-content>
